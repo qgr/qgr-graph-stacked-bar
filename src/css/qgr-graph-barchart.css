@@ -1,0 +1,9 @@
+.qgr-graph-barchart div {
+  font: 10px sans-serif;
+  height: 14px;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}

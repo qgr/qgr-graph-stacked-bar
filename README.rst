@@ -1,6 +1,6 @@
-==================
-qgr-cntrl-checkbox
-==================
+=====================
+qgr-graph-stacked-bar
+=====================
 
-Bar chart module for qoogr using d3.
+Stacked bar chart module for qoogr using d3.
 
